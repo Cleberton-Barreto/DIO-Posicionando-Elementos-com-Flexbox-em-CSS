@@ -68,7 +68,7 @@
 
   OBS: não irá funcionar caso tenhamos adicionado justify-content ao nosso flex container. 
 
-- **flax-basis -** É a propriedade que estabelece o tamanho inicial do item antes da distribuição de espaço restante dentro dele, usando como base o conteúdo interno disposto.
+- **flex-basis -** É a propriedade que estabelece o tamanho inicial do item antes da distribuição de espaço restante dentro dele, usando como base o conteúdo interno disposto.
 
   **Valores possíveis**
 
